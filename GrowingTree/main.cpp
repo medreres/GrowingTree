@@ -108,61 +108,6 @@ int main(int, char const**)
     Cell fork;
     bool is_fork = 0;
     bool is_vertical = 0;
-//    while(maze[path_to_end.back().y][path_to_end.back().x].is_end != 1)
-//    {
-//        Cell _path = maze[path_to_end.back().y][path_to_end.back().x];
-//        vector<Cell> next_step;
-//        if(_path.x > 0 && maze[_path.y][_path.x - 1].Right == Open )
-//            next_step.push_back(maze[_path.y][_path.x - 1]);
-//         if(_path.x < width - 1 && maze[_path.y][_path.x + 1].Left == Open )
-//            next_step.push_back(maze[_path.y][_path.x + 1]);
-//         if(_path.y > 0 && maze[_path.y - 1][_path.x].Bottom == Open)
-//            next_step.push_back(maze[_path.y - 1][_path.x]);
-//         if(_path.y < height - 1 && maze[_path.y + 1][_path.x].Top == Open)
-//            next_step.push_back(maze[_path.y + 1][_path.x]);
-//
-//        if(!next_step.empty())
-//        {
-//            Cell next = next_step[rand() % next_step.size()];
-//            maze[next.y][next.x].is_visited = true;
-//            path_to_end.push_back(Path(next.x,next.y));
-//        }
-//        else
-//            path_to_end.pop_back();
-//    }
-    
-    
-    
-    
-    
-    
-    
-    
-
-   
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     // Start the game loop
@@ -185,45 +130,37 @@ int main(int, char const**)
         
         
         sf::Time elapsed = clock.getElapsedTime();
-        
         if(elapsed.asSeconds() > 0.2)
         {
             clock.restart();
-        if(maze[path_to_end.back().y][path_to_end.back().x].is_end == 0)
-        {
-            Cell _path = maze[path_to_end.back().y][path_to_end.back().x];
-            vector<Cell> next_step;
-            if(_path.x > 0 && maze[_path.y][_path.x ].Left == Open && maze[_path.y][_path.x - 1].is_visited == false )
-                next_step.push_back(maze[_path.y][_path.x - 1]);
-             if(_path.x < width - 1 && maze[_path.y][_path.x].Right == Open && maze[_path.y][_path.x + 1].is_visited == false)
-                next_step.push_back(maze[_path.y][_path.x + 1]);
-             if(_path.y > 0 && maze[_path.y - 1][_path.x].Bottom == Open && maze[_path.y - 1][_path.x ].is_visited == false)
-                next_step.push_back(maze[_path.y - 1][_path.x]);
-             if(_path.y < height - 1 && maze[_path.y + 1][_path.x].Top == Open && maze[_path.y + 1][_path.x].is_visited == false)
-                next_step.push_back(maze[_path.y + 1][_path.x]);
-            
-            if(!next_step.empty())
+            if(maze[path_to_end.back().y][path_to_end.back().x].is_end == 0)
             {
-                Cell next = next_step[rand() % next_step.size()];
-                maze[next.y][next.x].is_visited = true;
-                if(next.y != _path.y)
-                    is_vertical = 1;
-                path_to_end.push_back(Path(next.x,next.y));
-                if(is_vertical)
-                    is_vertical = 0;
+                Cell _path = maze[path_to_end.back().y][path_to_end.back().x];
+                vector<Cell> next_step;
+                if(_path.x > 0 && maze[_path.y][_path.x ].Left == Open && maze[_path.y][_path.x - 1].is_visited == false )
+                    next_step.push_back(maze[_path.y][_path.x - 1]);
+                if(_path.x < width - 1 && maze[_path.y][_path.x].Right == Open && maze[_path.y][_path.x + 1].is_visited == false)
+                    next_step.push_back(maze[_path.y][_path.x + 1]);
+                if(_path.y > 0 && maze[_path.y - 1][_path.x].Bottom == Open && maze[_path.y - 1][_path.x ].is_visited == false)
+                    next_step.push_back(maze[_path.y - 1][_path.x]);
+                if(_path.y < height - 1 && maze[_path.y + 1][_path.x].Top == Open && maze[_path.y + 1][_path.x].is_visited == false)
+                    next_step.push_back(maze[_path.y + 1][_path.x]);
+                if(!next_step.empty())
+                {
+                    Cell next = next_step[rand() % next_step.size()];
+                    maze[next.y][next.x].is_visited = true;
+                    if(next.y != _path.y)
+                        is_vertical = 1;
+                    path_to_end.push_back(Path(next.x,next.y));
+                    if(is_vertical)
+                        is_vertical = 0;
+                }
+                else{
+                    maze[path_to_end.back().y][path_to_end.back().x].is_visited = true;
+                    path_to_end.pop_back();
+                }
             }
-            else{
-                maze[path_to_end.back().y][path_to_end.back().x].is_visited = true;
-                path_to_end.pop_back();
-                
-            
-            }
-            
         }
-        
-        }
-        
-        
         
         
         

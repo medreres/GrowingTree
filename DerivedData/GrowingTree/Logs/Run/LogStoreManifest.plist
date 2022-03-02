@@ -312,6 +312,40 @@
 			<key>uniqueIdentifier</key>
 			<string>198A8036-BC3A-450C-AA95-CFBCBCF62F94</string>
 		</dict>
+		<key>1F4DA0E1-3551-4E46-A4D2-E9E2F5940F8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1F4DA0E1-3551-4E46-A4D2-E9E2F5940F8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944671.49616599</real>
+			<key>timeStoppedRecording</key>
+			<real>667944679.68240905</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>1F4DA0E1-3551-4E46-A4D2-E9E2F5940F8C</string>
+		</dict>
 		<key>1F91C51E-059F-494A-94A1-95DB7EF77A72</key>
 		<dict>
 			<key>className</key>
@@ -482,6 +516,40 @@
 			<key>uniqueIdentifier</key>
 			<string>363B67E9-E9B1-4981-945E-EE24767422F3</string>
 		</dict>
+		<key>3D53506D-BD8E-4216-9D9C-9EB3732ADF6D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3D53506D-BD8E-4216-9D9C-9EB3732ADF6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944737.82517195</real>
+			<key>timeStoppedRecording</key>
+			<real>667944749.10373199</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>3D53506D-BD8E-4216-9D9C-9EB3732ADF6D</string>
+		</dict>
 		<key>431F77C4-AF9F-4F64-9D80-82B959C0DE65</key>
 		<dict>
 			<key>className</key>
@@ -583,6 +651,40 @@
 			<string>Run GrowingTree</string>
 			<key>uniqueIdentifier</key>
 			<string>4B458740-0DD9-41E6-A44A-1994A718FA02</string>
+		</dict>
+		<key>4DBD45D1-6DEE-47EF-A9A1-ACC8FCE8BF13</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4DBD45D1-6DEE-47EF-A9A1-ACC8FCE8BF13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944716.25194895</real>
+			<key>timeStoppedRecording</key>
+			<real>667944736.19365203</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>4DBD45D1-6DEE-47EF-A9A1-ACC8FCE8BF13</string>
 		</dict>
 		<key>6646C322-1D17-4CE5-B6A9-B13F0F4A35D5</key>
 		<dict>
@@ -753,6 +855,40 @@
 			<string>Run GrowingTree</string>
 			<key>uniqueIdentifier</key>
 			<string>76209D77-0719-4303-B6D7-9C2EC680D171</string>
+		</dict>
+		<key>7BDA3F2C-9397-42DE-80AD-CF87ED23B40E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BDA3F2C-9397-42DE-80AD-CF87ED23B40E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944657.714661</real>
+			<key>timeStoppedRecording</key>
+			<real>667944663.96345699</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>7BDA3F2C-9397-42DE-80AD-CF87ED23B40E</string>
 		</dict>
 		<key>7CEA4023-A5E4-4811-8E05-EE14B13E9065</key>
 		<dict>
@@ -958,6 +1094,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8E9EB880-4679-4125-9665-0F0DBFF62AA7</string>
 		</dict>
+		<key>9028DA42-56B0-461A-9B60-3D69D1BD55B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9028DA42-56B0-461A-9B60-3D69D1BD55B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944751.70348001</real>
+			<key>timeStoppedRecording</key>
+			<real>667944767.78161597</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>9028DA42-56B0-461A-9B60-3D69D1BD55B1</string>
+		</dict>
 		<key>92BCE127-C7E2-46BE-AADF-E967B4B5B503</key>
 		<dict>
 			<key>className</key>
@@ -1127,6 +1297,40 @@
 			<string>Run GrowingTree</string>
 			<key>uniqueIdentifier</key>
 			<string>9FADD20A-8D62-46EE-980C-C2CCF5A488E4</string>
+		</dict>
+		<key>A1A14B49-E86E-4F47-835D-FDD8075E4E51</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A1A14B49-E86E-4F47-835D-FDD8075E4E51.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944370.70966899</real>
+			<key>timeStoppedRecording</key>
+			<real>667944523.51458204</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>A1A14B49-E86E-4F47-835D-FDD8075E4E51</string>
 		</dict>
 		<key>A8E3D002-4541-4E76-8256-2145ABC080F2</key>
 		<dict>
@@ -1502,6 +1706,40 @@
 			<key>uniqueIdentifier</key>
 			<string>D7D21F36-B21E-423B-9316-DF5A246214CF</string>
 		</dict>
+		<key>D975F98C-4701-4DAE-A583-13AFECB333AD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D975F98C-4701-4DAE-A583-13AFECB333AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944206.56374502</real>
+			<key>timeStoppedRecording</key>
+			<real>667944225.68946004</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>D975F98C-4701-4DAE-A583-13AFECB333AD</string>
+		</dict>
 		<key>E352C31B-E31D-4C64-944B-C079FE921241</key>
 		<dict>
 			<key>className</key>
@@ -1705,6 +1943,40 @@
 			<string>Run GrowingTree</string>
 			<key>uniqueIdentifier</key>
 			<string>F6B0A724-715C-45A2-BEFD-51F31ECA7387</string>
+		</dict>
+		<key>FE5911AF-5860-44C1-BF91-AEC8ACAB1D05</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE5911AF-5860-44C1-BF91-AEC8ACAB1D05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667944774.44126594</real>
+			<key>timeStoppedRecording</key>
+			<real>667944815.269153</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>FE5911AF-5860-44C1-BF91-AEC8ACAB1D05</string>
 		</dict>
 	</dict>
 </dict>
