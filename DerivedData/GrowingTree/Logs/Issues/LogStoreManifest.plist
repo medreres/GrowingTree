@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1C1752C3-068A-4A94-9B1E-C344E8324956</key>
+		<key>B67EBAE3-F163-4579-A9E0-BBA4ED258534</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>1C1752C3-068A-4A94-9B1E-C344E8324956.xcactivitylog</string>
+			<string>B67EBAE3-F163-4579-A9E0-BBA4ED258534.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>GrowingTree-cschbnpgdvwyajhfdjccfhmafxyt</string>
 			<key>timeStartedRecording</key>
-			<real>667944715.60118794</real>
+			<real>667949050.13962305</real>
 			<key>timeStoppedRecording</key>
-			<real>667944716.24765098</real>
+			<real>667949051.20112395</real>
 			<key>title</key>
 			<string>Build target GrowingTree</string>
 			<key>uniqueIdentifier</key>
-			<string>1C1752C3-068A-4A94-9B1E-C344E8324956</string>
+			<string>B67EBAE3-F163-4579-A9E0-BBA4ED258534</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

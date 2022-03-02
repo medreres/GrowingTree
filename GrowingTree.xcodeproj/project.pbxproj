@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		FB25C7FC27CFF910006DD07D /* source.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FB25C7FA27CFF910006DD07D /* source.cpp */; };
-		FB4F1A4F27CE4C610037F2D3 /* ResourcePath.mm in Sources */ = {isa = PBXBuildFile; fileRef = FB4F1A4E27CE4C610037F2D3 /* ResourcePath.mm */; };
 		FB4F1A5227CE4C610037F2D3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FB4F1A5127CE4C610037F2D3 /* main.cpp */; };
 		FB4F1A5527CE4C610037F2D3 /* cute_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB4F1A5427CE4C610037F2D3 /* cute_image.jpg */; };
 		FB4F1A5727CE4C610037F2D3 /* nice_music.ogg in Resources */ = {isa = PBXBuildFile; fileRef = FB4F1A5627CE4C610037F2D3 /* nice_music.ogg */; };
@@ -21,8 +20,6 @@
 		FB25C7FB27CFF910006DD07D /* source.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = source.hpp; sourceTree = "<group>"; };
 		FB4F1A4927CE4C610037F2D3 /* GrowingTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrowingTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB4F1A4D27CE4C610037F2D3 /* GrowingTree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "GrowingTree-Info.plist"; path = "../GrowingTree-Info.plist"; sourceTree = "<group>"; };
-		FB4F1A4E27CE4C610037F2D3 /* ResourcePath.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ResourcePath.mm; sourceTree = "<group>"; };
-		FB4F1A5027CE4C610037F2D3 /* ResourcePath.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ResourcePath.hpp; sourceTree = "<group>"; };
 		FB4F1A5127CE4C610037F2D3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		FB4F1A5427CE4C610037F2D3 /* cute_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cute_image.jpg; path = ../cute_image.jpg; sourceTree = "<group>"; };
 		FB4F1A5627CE4C610037F2D3 /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; name = nice_music.ogg; path = ../nice_music.ogg; sourceTree = "<group>"; };
@@ -60,8 +57,6 @@
 		FB4F1A4B27CE4C610037F2D3 /* GrowingTree */ = {
 			isa = PBXGroup;
 			children = (
-				FB4F1A4E27CE4C610037F2D3 /* ResourcePath.mm */,
-				FB4F1A5027CE4C610037F2D3 /* ResourcePath.hpp */,
 				FB4F1A5127CE4C610037F2D3 /* main.cpp */,
 				FB25C7FA27CFF910006DD07D /* source.cpp */,
 				FB25C7FB27CFF910006DD07D /* source.hpp */,
@@ -185,7 +180,6 @@
 			files = (
 				FB4F1A5227CE4C610037F2D3 /* main.cpp in Sources */,
 				FB25C7FC27CFF910006DD07D /* source.cpp in Sources */,
-				FB4F1A4F27CE4C610037F2D3 /* ResourcePath.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -16,6 +16,7 @@
 #include <stack>
 #include <vector>
 #include <iostream>
+using namespace std;
 const int HEIGHT = 600;
 const int WIDTH = 700;
 const int height = 10;
@@ -55,8 +56,10 @@ public:
     Path(int, int);
     bool operator!= (const Cell &p) const;
 };
-void initialize(Cell *);
-
-
+void initialize_maze(Cell *);
+void create_maze(Cell *,std::stack<Cell> &);
+void find_way(sf::Time &,sf::Clock &, Cell *maze,vector<Path> &);
+void reset_maze(Cell *,vector<Path> &);
+void draw_maze(Cell *,sf::RenderWindow &,vector<Path> &);
 
 #endif /* source_hpp */
