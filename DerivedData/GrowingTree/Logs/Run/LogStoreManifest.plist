@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>69A23DDB-BF5B-4E77-A46E-D27C6B16373C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>69A23DDB-BF5B-4E77-A46E-D27C6B16373C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667905055.66597497</real>
+			<key>timeStoppedRecording</key>
+			<real>667905100.61275995</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>69A23DDB-BF5B-4E77-A46E-D27C6B16373C</string>
+		</dict>
+		<key>E0262840-BDBD-4A53-BD6E-66E4C19662CC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E0262840-BDBD-4A53-BD6E-66E4C19662CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GrowingTree project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GrowingTree</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GrowingTree</string>
+			<key>timeStartedRecording</key>
+			<real>667875872.56059802</real>
+			<key>timeStoppedRecording</key>
+			<real>667875906.50523806</real>
+			<key>title</key>
+			<string>Run GrowingTree</string>
+			<key>uniqueIdentifier</key>
+			<string>E0262840-BDBD-4A53-BD6E-66E4C19662CC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
