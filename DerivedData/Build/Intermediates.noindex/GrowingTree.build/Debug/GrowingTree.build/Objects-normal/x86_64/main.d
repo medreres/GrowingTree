@@ -90,4 +90,5 @@ dependencies: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/medreres/Documents/GitHub/GrowingTree/GrowingTree/ResourcePath.hpp
+  /Users/medreres/Documents/GitHub/GrowingTree/GrowingTree/ResourcePath.hpp \
+  /Users/medreres/Documents/GitHub/GrowingTree/GrowingTree/source.hpp
